@@ -13,7 +13,7 @@ To write a java program to implement Tower of Hanoi
 7. Stop the program.
 
 ## Program:
-```
+```java
 /*
 Program to to count the number of digits in an integer
 Developed by: SANTHOSE AROCKIRAJ J
